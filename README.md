@@ -39,4 +39,3 @@ and customer behavior across 8 tables.
 ## Author
 Pradhipa S — Data Analyst
 LinkedIn: linkedin.com/in/pradhipa29
-Email: pradhipasuresh16@gmail.com
