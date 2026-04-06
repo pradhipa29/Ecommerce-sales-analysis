@@ -37,5 +37,5 @@ and customer behavior across 8 tables.
 - Size: 100,000+ orders · 8 tables
 
 ## Author
-Pradhipa S — Data Analyst
+Pradhipa S — Aspiring Data Analyst
 LinkedIn: linkedin.com/in/pradhipa29
